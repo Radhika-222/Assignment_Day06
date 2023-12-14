@@ -1,0 +1,7 @@
+E:\Mphasis Phase3\Day6\Assignment_Day06\Assignment_Day06\Assignment_Day06\bin\Debug\Assignment_Day06.exe.config
+E:\Mphasis Phase3\Day6\Assignment_Day06\Assignment_Day06\Assignment_Day06\bin\Debug\Assignment_Day06.exe
+E:\Mphasis Phase3\Day6\Assignment_Day06\Assignment_Day06\Assignment_Day06\bin\Debug\Assignment_Day06.pdb
+E:\Mphasis Phase3\Day6\Assignment_Day06\Assignment_Day06\Assignment_Day06\obj\Debug\Assignment_Day06.csproj.AssemblyReference.cache
+E:\Mphasis Phase3\Day6\Assignment_Day06\Assignment_Day06\Assignment_Day06\obj\Debug\Assignment_Day06.csproj.CoreCompileInputs.cache
+E:\Mphasis Phase3\Day6\Assignment_Day06\Assignment_Day06\Assignment_Day06\obj\Debug\Assignment_Day06.exe
+E:\Mphasis Phase3\Day6\Assignment_Day06\Assignment_Day06\Assignment_Day06\obj\Debug\Assignment_Day06.pdb
