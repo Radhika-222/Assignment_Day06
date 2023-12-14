@@ -19,7 +19,7 @@ namespace Assignment_Day06
             do
             {
                 Console.WriteLine("Choose Operation");
-                Console.WriteLine("1.Select all record from Producta table\n 2.Insert into Products table\n 3.Delete from Products table\n");
+                Console.WriteLine("1.Select all record from Product table\n 2.Insert into Products table\n 3.Update Product Table\n  4.Delete from Products table\n");
                 int op = int.Parse(Console.ReadLine());
                 switch (op)
                 {
